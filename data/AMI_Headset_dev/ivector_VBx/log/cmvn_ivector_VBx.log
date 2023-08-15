@@ -1,0 +1,2 @@
+compute-cmvn-stats --spk2utt=ark:data/AMI_Headset_dev/ivector_VBx/spk2utt scp:data/AMI_Headset_dev/ivector_VBx/feats.scp ark,scp:/disk3/gbyang/mamse/data/AMI_Headset_dev/ivector_VBx/data/cmvn_ivector_VBx.ark,/disk3/gbyang/mamse/data/AMI_Headset_dev/ivector_VBx/data/cmvn_ivector_VBx.scp 
+LOG (compute-cmvn-stats[5.5]:main():compute-cmvn-stats.cc:171) Done accumulating CMVN stats for 6072 utterances; 0 had errors.
