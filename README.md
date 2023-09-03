@@ -1,6 +1,6 @@
 # NSD-MA-MSE
 This repository is a pytorch implementation of the paper "ANSD-MA-MSE: Adaptive Neural Speaker Diarization Using Memory-Aware Multi-Speaker Embedding", for more details please see [paper](doc/ANSD-MA-MSE_Adaptive_Neural_Speaker_Diarization_Using_Memory-Aware_Multi-Speaker_Embedding.pdf)
-![image](doc/network.jpg).
+![image](doc/network2.jpg).
 
 ## Results
 ![image](doc/AMI.jpg)
