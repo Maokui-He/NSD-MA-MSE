@@ -7,7 +7,7 @@ This repository is a pytorch implementation of the paper "ANSD-MA-MSE: Adaptive 
 ![image](doc/DH.jpg)
 
 ## Pretrain Model
-The model trained on AMI dataset can be found [here](https://drive.google.com/file/d/1xq-U8CkEymU661_177IqlvId6piULTiU/view?usp=drive_link), with results of 11.03 on the AMI development set and 11.79 on the test set (oracle VAD, th=0.5).
+The model trained on AMI dataset can be found [here](https://drive.google.com/file/d/1xq-U8CkEymU661_177IqlvId6piULTiU/view?usp=drive_link), with results of 11.19 on the AMI development set and 11.81 on the test set (oracle VAD, th=0.5).
 
 ## Decoding
 
