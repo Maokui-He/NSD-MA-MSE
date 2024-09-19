@@ -41,5 +41,7 @@ If you find this code useful in your research, please consider to cite the follo
 
 ```
 
-[![Star History Chart](https://star-history.com/#Maokui-He/NSD-MA-MSE&Date)](https://star-history.com/#Maokui-He/NSD-MA-MSE&Date)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Maokui-He/NSD-MA-MSE&type=Date)](https://star-history.com/#Maokui-He/NSD-MA-MSE&Date)
 
